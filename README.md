@@ -5,7 +5,7 @@ Full-Stack Developer | MERN Stack | Building real products, not just tutorials
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=MERN+Stack+Developer;Building+TourMate+%F0%9F%8C%8D;DSA+%2B+Problem+Solving;Open+to+Work+%F0%9F%92%BC&font=Fira%20Code&center=true&width=440&height=45&color=61DAFB&vCenter=true&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=MERN+Stack+Developer;Building+TourMate+%F0%9F%8C%8D;%2B+Problem+Solving;Open+to+Work+%F0%9F%92%BC&font=Fira%20Code&center=true&width=440&height=45&color=61DAFB&vCenter=true&size=22" alt="Typing SVG" />
 </p>
 
 <p align="center">
